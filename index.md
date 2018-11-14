@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the ITCS Team
 
-You can use the [editor on GitHub](https://github.com/Dayana20/ITCSM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We look forward to an amazing and productive year with all of you!
 
 ### Markdown
 
